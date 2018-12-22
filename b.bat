@@ -1,4 +1,2 @@
 @echo off
-g++ -std=c++11 c10.cpp
-
-
+g++ -std=c++11 c11.cpp

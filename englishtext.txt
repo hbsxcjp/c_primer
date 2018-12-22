@@ -1,0 +1,8 @@
+C/C++ for Visual Studio Code Change Log
+
+Version 0.20.1: October 31, 2018
+
+Fix IntelliSense-based Go to Declaration when there's only a definition in a TU. #2743
+Fix #include completion for standalone header files. #2744
+Fix the highest hitting main process crash.
+Fix IntelliSense process crash with completion.
